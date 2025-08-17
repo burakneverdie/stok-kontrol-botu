@@ -82,5 +82,5 @@ Program belirlediğiniz ürünleri takip eder, stok bulunduğunda **Telegram üz
 
 ---
 
-## 📄 Lisans
-Bu proje kişisel kullanım için geliştirilmiştir.  
+## 📄 Not
+Bu proje kişisel kullanım için geliştirilmiştir ve herhangi bir ticari amacı yoktur. 
