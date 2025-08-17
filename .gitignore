@@ -1,0 +1,6 @@
+# Python cache dosyaları
+__pycache__/
+
+# VSCode editör dosyaları
+.vs/
+
